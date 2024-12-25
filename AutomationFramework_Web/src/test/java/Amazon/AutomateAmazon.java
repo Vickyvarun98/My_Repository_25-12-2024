@@ -50,7 +50,6 @@ public class AutomateAmazon {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 		driver.get("https://www.amazon.in/");
-		System.out.println("Browser got launched....");
 		
 	}
 
