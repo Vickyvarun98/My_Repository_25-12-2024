@@ -31,7 +31,7 @@ public class AutomateMyntraa {
 		js.executeScript("arguments[0].click()", element);
 
 		Thread.sleep(2000);
-		// driver.quit();
+		 driver.quit();
 	}
 
 	@Test
@@ -62,6 +62,7 @@ public class AutomateMyntraa {
 			}
 
 		}
+		System.out.println("Datas are fetched.....");
 		driver.quit();
 	}
 
