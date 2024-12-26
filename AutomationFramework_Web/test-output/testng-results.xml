@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-25T10:34:28 IST" name="Default suite" finished-at="2024-12-25T10:34:37 IST" duration-ms="9449">
+  <suite started-at="2024-12-25T21:46:59 IST" name="Default suite" finished-at="2024-12-25T21:47:11 IST" duration-ms="12379">
     <groups>
     </groups>
-    <test started-at="2024-12-25T10:34:28 IST" name="Default test" finished-at="2024-12-25T10:34:37 IST" duration-ms="9449">
+    <test started-at="2024-12-25T21:46:59 IST" name="Default test" finished-at="2024-12-25T21:47:11 IST" duration-ms="12379">
       <class name="Flipkart.AutomateFlipkart">
-        <test-method signature="launch()[pri:0, instance:Flipkart.AutomateFlipkart@74235045]" started-at="2024-12-25T10:34:28 IST" name="launch" finished-at="2024-12-25T10:34:36 IST" duration-ms="7701" status="PASS">
+        <test-method signature="launch()[pri:0, instance:Flipkart.AutomateFlipkart@515c6049]" started-at="2024-12-25T21:46:59 IST" name="launch" finished-at="2024-12-25T21:47:10 IST" duration-ms="10632" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="searchProduct()[pri:0, instance:Flipkart.AutomateFlipkart@74235045]" started-at="2024-12-25T10:34:36 IST" name="searchProduct" finished-at="2024-12-25T10:34:37 IST" depends-on-methods="Flipkart.AutomateFlipkart.launch" duration-ms="1692" status="PASS">
+        <test-method signature="searchProduct()[pri:0, instance:Flipkart.AutomateFlipkart@515c6049]" started-at="2024-12-25T21:47:10 IST" name="searchProduct" finished-at="2024-12-25T21:47:11 IST" depends-on-methods="Flipkart.AutomateFlipkart.launch" duration-ms="1689" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchProduct -->
